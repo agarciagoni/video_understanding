@@ -4,7 +4,7 @@ App developed using [Gradio] to test video understading tools. Currently running
 
 ### Current Status ###
 <p align="center">
-  <img src="https://github.com/agarciagoni/video_understanding/blob/main/examples/status.PNG" width="900" height="500">
+  <img src="https://github.com/agarciagoni/video_understanding/blob/main/examples/status_huggingface.PNG" width="900" height="500">
   </p>
 
 ### Install ###
