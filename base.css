@@ -1,0 +1,32 @@
+div .panel_buttons {
+    width: 95%;
+    margin:auto;
+    padding-bottom:5px;
+}
+
+.gradio_app .gradio_bg[theme=huggingface] .gradio_interface .output_label .confidence {
+    color: #f7f1f1;
+}
+
+.panel_button.submit {
+    /* background-color: #0076efc7 !important; */
+    width: 80% !important;
+}
+.panel_button.submit:hover {
+    /* background-color: #0081ef !important; */
+}
+/*
+.input_slider.range{
+    background-color: #0076efc7 !important;
+}
+*/
+
+div.labels {
+    max-width: 100% !important;
+
+}
+
+div .panel {
+    border-radius: 5px !important;
+    box-shadow: 3px 5px 5px #00000029 !important;
+}

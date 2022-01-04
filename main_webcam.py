@@ -20,5 +20,7 @@ iface = gr.Interface(
     title = 'Video scene predictor',
     description='Test to predict the scene of a video',
 #    examples='C:/Users/alejandro.garcia/Desktop/VASS/Video Analysis/archery.mp4'
+    css = 'base.css',
+    theme = 'darkhuggingface'
 )
 iface.launch()
